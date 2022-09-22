@@ -1,0 +1,10 @@
+C:\Users\wajeh otman\source\repos\GymTuto\bin\Debug\GymTuto.exe.config
+C:\Users\wajeh otman\source\repos\GymTuto\bin\Debug\GymTuto.exe
+C:\Users\wajeh otman\source\repos\GymTuto\bin\Debug\GymTuto.pdb
+C:\Users\wajeh otman\source\repos\GymTuto\obj\Debug\Coffee Shop.csproj.AssemblyReference.cache
+C:\Users\wajeh otman\source\repos\GymTuto\obj\Debug\GymTuto.Form1.resources
+C:\Users\wajeh otman\source\repos\GymTuto\obj\Debug\GymTuto.Properties.Resources.resources
+C:\Users\wajeh otman\source\repos\GymTuto\obj\Debug\Coffee Shop.csproj.GenerateResource.cache
+C:\Users\wajeh otman\source\repos\GymTuto\obj\Debug\Coffee Shop.csproj.CoreCompileInputs.cache
+C:\Users\wajeh otman\source\repos\GymTuto\obj\Debug\GymTuto.exe
+C:\Users\wajeh otman\source\repos\GymTuto\obj\Debug\GymTuto.pdb
